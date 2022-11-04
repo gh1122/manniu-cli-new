@@ -3,8 +3,8 @@
 多模板选择架手架
 
 ## 使用
-yarn add manniu-cli-new -g
-manniu-cli-new create <projectName>
+- yarn add manniu-cli-new -g
+- manniu-cli-new create <projectName>
 
 ## 插件
 - commander===> 专门处理命令选项参数
